@@ -1,5 +1,5 @@
 NoOfStudents = 6000;
-TeachingStaff = 150;
+TeachingStaff = 10;
 NonTeachingStaff = 20;
 
 Total = NoOfStudents + TeachingStaff ...
